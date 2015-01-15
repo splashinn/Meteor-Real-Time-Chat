@@ -1,4 +1,4 @@
-# Meteor-Real-Time-Chat
+## Meteor-Real-Time-Chat
 <br>
 Made with Meteor 0.8.2
 <br>
