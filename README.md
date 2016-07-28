@@ -9,5 +9,5 @@ Sample application showing off the Meteor full-stack development framework.
 Feel free to contribute, just fork it!
 <br>
 <br>
-Copyright (c) 2014 Kyle Maune
+Copyright (c) 2016 Kyle Maune
 
